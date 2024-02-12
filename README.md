@@ -1,14 +1,12 @@
 # 💫 About Me:👋 Hey there, I'm Azan Adnan!
 👨‍💻 XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | Blockchain Developer | Software Engineering Student
 
-🌐 Web3 Enthusiast | Crypto Trader | Blockchain Dev Enthusiast 🚀
-🎓 Final Year Student diving deep into the world of code and chains.
-💡 Turning ideas into smart contracts and building decentralized dreams.
-
-📚 Proficient in Solidity, exploring the depths of ZKPs, and mastering React.
-🌱 Growing my skills one line of code at a time.
-
-🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology.
+🌐 Web3 Enthusiast | Crypto Trader | Blockchain Dev Enthusiast 🚀<br>
+🎓 Final Year Student diving deep into the world of code and chains.<br>
+💡 Turning ideas into smart contracts and building decentralized dreams. <br>
+📚 Proficient in Solidity, exploring the depths of ZKPs. <br>
+🌱 Growing my skills one line of code at a time.<br>
+🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology.<br>
 🧩 Piecing together the puzzle of decentralized solutions.<br><br>
 
 
