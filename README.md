@@ -1,22 +1,22 @@
 ## 💫 About Me:
-👋 Hey there, I'm Azan Adnan! 
-<br>
-👨‍💻 Blockchain Developer | Software Engineering Student | XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | 
-<br>
-🌐 Web3 Enthusiast | Crypto Trader | Blockchain Dev Enthusiast 🚀
-<br>
-🎓 Final Year Student diving deep into the world of code and chains.
-<br>
-💡 Turning ideas into smart contracts and building decentralized dreams.
-<br>
-📚 Proficient in Solidity, exploring the depths of ZKPs.
-<br>
-🌱 Currently learning Rust, delving into ZKPs, and exploring Layer 2 solutions.
-<br>
-🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology.
-<br>
-🧩 Piecing together the puzzle of decentralized solutions, one line of Rust at a time.
-<br>
+👋 Hey there, I'm Azan Adnan! <br>
+
+👨‍💻 Blockchain Developer | Software Engineering Student | XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | <br>
+
+🌐 Web3 Enthusiast | Crypto Trader | Blockchain Dev Enthusiast 🚀<br>
+
+🎓 Final Year Student diving deep into the world of code and chains. <br>
+
+💡 Turning ideas into smart contracts and building decentralized dreams.<br>
+
+📚 Proficient in Solidity, exploring the depths of ZKPs.<br>
+
+🌱 Currently learning Rust, delving into ZKPs, and exploring Layer 2 solutions. <br>
+
+🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology. <br>
+
+🧩 Piecing together the puzzle of decentralized solutions, one line of Rust at a time. <br>
+
 
 ## 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0xazan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azan.adnan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azanadnan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xAzan) 
