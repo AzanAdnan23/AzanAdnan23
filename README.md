@@ -3,7 +3,7 @@
 
 👨‍💻 Blockchain Developer | Software Engineering Student | XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | <br>
 
-🌐 Web3 Enthusiast | Crypto Trader | Blockchain Dev Enthusiast 🚀<br>
+🌐 Web3 Enthusiast | Crypto Trader <br>
 
 🎓 Final Year Student diving deep into the world of code and chains. <br>
 
