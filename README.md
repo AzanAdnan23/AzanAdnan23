@@ -25,6 +25,17 @@
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
+
+<h4 align="left">Libraries and Frameworks</h3>
+
+<p>
+    <a href="https://book.getfoundry.sh/" target="_blank"><img src="https://img.shields.io/badge/Foundry-e6e6e6?style=for-the-badge&logo=foundry" alt="foundry"/></a>
+    <a href="https://hardhat.org/" target="_blank"><img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat" alt="hardhat"/></a>
+    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/></a>
+</p>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AzanAdnan23&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AzanAdnan23&theme=tokyonight&hide_border=false)<br/>
