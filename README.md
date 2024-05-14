@@ -2,7 +2,7 @@
 
 👋 Hey there, I'm Azan Adnan <br>
 
-👨‍💻 Blockchain Developer | Software Engineering | XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | <br>
+👨‍💻 Blockchain Developer | Software Engineer | XRPL Campus Ambassador | GDSC Web3 & Blockchain Lead | <br>
 
 🌐 Web3 Enthusiast | Crypto Trader <br>
 
