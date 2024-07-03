@@ -6,7 +6,7 @@
 
 🌐 Web3 Enthusiast | Crypto Trader <br>
 
-🎓 Final Year Student diving deep into the world of code and chains. <br>
+ Diving deep into the world of code and chains. <br>
 
 💡 Turning ideas into smart contracts and building decentralized dreams.<br>
 
