@@ -6,17 +6,13 @@
 
 🌐 Web3 Enthusiast | Crypto Trader <br>
 
- Diving deep into the world of code and chains. <br>
+🌱 Diving deep into the world of code and chains. <br>
 
 💡 Turning ideas into smart contracts and building decentralized dreams.<br>
 
-📚 Proficient in Solidity, exploring the depths of ZKPs.<br>
-
-🌱 Currently learning Rust, delving into ZKPs, and exploring Layer 2 solutions. <br>
+📚 Proficient in Solidity, exploring the depths of ZKPs & Layer 2 solutions.<br>
 
 🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology. <br>
-
-🧩 Piecing together the puzzle of decentralized solutions, one line of Rust at a time. <br>
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
