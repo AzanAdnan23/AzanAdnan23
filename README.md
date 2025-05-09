@@ -2,17 +2,19 @@
 
 👋 Hey there, I'm Azan Adnan <br>
 
-👨‍💻 Blockchain Developer | Software Engineer  <br>
+👨‍💻 Blockchain Engineer | Software Engineer  <br>
 
-🌐 Web3 Enthusiast | Crypto Trader <br>
+🌐 Web3 Architect | Market Analyst  <br>
 
-🌱 Diving deep into the world of code and chains. <br>
+🌐 Focused on Finance & Tech Innovation
 
-💡 Turning ideas into smart contracts and building decentralized dreams.<br>
+📚 Experienced in smart contract development and Web3 architecture, with hands-on experience across DeFi protocols, cross-chain bridges, and custom Layer 2 solutions
 
-📚 Proficient in Solidity, exploring the depths of ZKPs & Layer 2 solutions.<br>
+📚 Actively exploring zero-knowledge proofs for privacy and scalability in blockchain systems.
 
-🏆 Passionate about innovation, community, and the endless possibilities of blockchain technology. <br>
+📈 Analyzing tokenomics, market cycles, and protocol economics. <br>
+
+🤝 Collaborating with teams to deliver secure, scalable decentralized solutions. <br>
 
 ## 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
