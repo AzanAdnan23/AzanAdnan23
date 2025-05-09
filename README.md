@@ -2,13 +2,13 @@
 
 👋 Hey there, I'm Azan Adnan <br>
 
-👨‍💻 Blockchain Engineer | Software Engineer  <br>
+👋 Blockchain Engineer | Software Engineer  <br>
 
 🌐 Web3 Architect | Market Analyst  <br>
 
 🌐 Focused on Finance & Tech Innovation
 
-📚 Experienced in smart contract development and Web3 architecture, with hands-on experience across DeFi protocols, cross-chain bridges, and custom Layer 2 solutions
+📚 Experienced in smart contract development and Web3 architecture, with expertise in DeFi protocols, cross-chain bridges, and custom Layer 2 solutions
 
 📚 Actively exploring zero-knowledge proofs for privacy and scalability in blockchain systems.
 
