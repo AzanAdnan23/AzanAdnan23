@@ -1,10 +1,10 @@
-## 💫 About Me:
+## About Me:
 
-👋 Hey there, I'm Azan Adnan <br>
+* Hey there, I'm Azan Adnan <br>
 
-👋 Blockchain Engineer | Software Engineer  <br>
+- Blockchain Engineer | Software Engineer  <br>
 
-🌐 Web3 Architect | Market Analyst  <br>
++ Web3 Architect | Market Analyst  <br>
 
 🌐 Focused on Finance & Tech Innovation
 
