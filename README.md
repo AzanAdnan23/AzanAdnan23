@@ -8,7 +8,9 @@
 
 * Focused on Finance & Tech Innovation
 
-* Experienced in smart contract development and Web3 architecture with expertise in DeFi protocols, cross-chain bridges and custom Layer 2 solutions
+* Experienced in smart contract development and Web3 architecture
+
+* Expertise in DeFi protocols, cross-chain bridges, chaiinlink services, tokenomics and custom Layer 2 solutions 
 
 * Actively exploring zero-knowledge proofs for privacy and scalability in blockchain systems.
 
