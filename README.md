@@ -1,3 +1,15 @@
+<!-- WALLET-LINKING-BEGIN
+{
+  "lastUpdated": "2025-06-30T15:34:16.632Z",
+  "wallets": [
+    {
+      "chain": "ethereum",
+      "address": "0xFE1AB1f487d76B4987a9C571696F97E9eBd00a55"
+    }
+  ]
+}
+WALLET-LINKING-END -->
+
 ## About Me:
 
 * Hey there, I'm Azan Adnan <br>
@@ -42,16 +54,6 @@
 ## Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/0xazan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azan.adnan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azanadnan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xAzan) 
 
-<!-- WALLET-LINKING-BEGIN
-{
-  "lastUpdated": "2025-06-30T15:34:16.632Z",
-  "wallets": [
-    {
-      "chain": "ethereum",
-      "address": "0xFE1AB1f487d76B4987a9C571696F97E9eBd00a55"
-    }
-  ]
-}
-WALLET-LINKING-END -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
